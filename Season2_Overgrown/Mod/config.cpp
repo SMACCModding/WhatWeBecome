@@ -74,8 +74,8 @@ class CfgVehicles
         soundVoicePriority=3;
     };
 };
-class CfgNonAIVehicles
-{
-	class StaticObject;
-};
+//class CfgNonAIVehicles
+//{
+//	class StaticObject;
+//};
 

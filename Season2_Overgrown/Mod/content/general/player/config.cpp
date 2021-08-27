@@ -11,11 +11,11 @@ class CfgPatches {
 };
 class CfgVehicles {
     class BoxCerealCrunchin;
-    class WWB_Laelia_Cookies: BoxCerealCrunchin {
+    class WWB_LaeliasCookies: BoxCerealCrunchin {
 		displayName = "Box of Cookies";
 		descriptionShort = "If you're not careful, these cookies might nom YOU.";
 		hiddenSelections[] = {"camoGround"};
-		hiddenSelectionsTextures[] = {"\Overgrown\data\player\Laelia_Cookies.paa"};
+		hiddenSelectionsTextures[] = {"\Overgrown\data\player\BoxCerealCrunchin_LaeliasCookies_co.paa"};
 		class Nutrition
 		{
 			fullnessIndex = 2;
@@ -29,14 +29,14 @@ class CfgVehicles {
     class AK74_WoodBttstck;
     class WWB_Wing_AK74_WoodBttstck: AK74_WoodBttstck {
         hiddenSelections[]={"zbytek"};
-        hiddenSelectionsTextures[]={"\Overgrown\data\player\Asher_AK74_WoodBttstck_co.paa"};
+        hiddenSelectionsTextures[]={"\Overgrown\data\player\AK74_WoodBttstck_Asher_co.paa"};
     };
 
 	class BookTranslationsOfShakuntala;
 	class WWB_BookQuran: BookTranslationsOfShakuntala {
         title="The Noble Qur'an in the english language";
-        displayName="The Noble Qur'an in the english language";/
+        displayName="The Noble Qur'an in the english language";
         descriptionShort="Interpretation of the Meanings of the Noble Qur'an in the english language";
-        hiddenSelectionsTextures[]={"\Overgrown\data\player\Midi_Quran_co.paa"};
+        hiddenSelectionsTextures[]={"\Overgrown\data\player\Book_Quran_co.paa"};
     };
 };

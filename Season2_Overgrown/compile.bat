@@ -7,7 +7,7 @@ set seasonName=Season2_Overgrown
 set pathToAddonBuilder=D:\Other Games\steamapps\common\DayZ Tools\Bin\AddonBuilder\
 set pathToUncompiled=P:\workspace\%serverName%\%seasonName%\Mod\
 set pathToTemp=P:\%modName%\
-set pathToCompiled=P:\workspace\%serverName%\%seasonName%\Finished\@%modName%\Addons\
+set pathToCompiled=P:\workspace\packedPBOs\@%modName%\Addons\
 
 echo "Compiling %seasonName%!!"
 if not exist P:\ (
