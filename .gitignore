@@ -1,0 +1,21 @@
+#Basic Restrictions
+*.log
+.idea/
+
+##Season 1 - Stuff
+#More Logging
+Season1_Deserted/Deserted/scripts/4_World/logs/
+
+#Config Restrictions
+Season1_Deserted/Config/SC/PermissionsFramework/Permissions/
+Season1_Deserted/Config/SC/PermissionsFramework/Players/
+Season1_Deserted/Config/mpmissions/Default.*/
+
+##Season 2 - Stuff
+#More Logging
+Season2_Overgrown/Mod/scripts/4_World/logs/
+
+#Config Restrictions
+Season2_Overgrown/Config/SC/PermissionsFramework/Permissions/
+Season2_Overgrown/Config/SC/PermissionsFramework/Players/
+Season2_Overgrown/Config/mpmissions/Default.*/

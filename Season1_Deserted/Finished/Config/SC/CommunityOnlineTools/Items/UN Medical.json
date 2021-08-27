@@ -1,0 +1,66 @@
+{
+  "Name": "UN Medical",
+  "ContainerClassName": "CourierBag_Admin",
+  "Items": [
+    {
+      "ItemName": "BandageDressing",
+      "NumberOfStacks": 10,
+      "StackSize": 4
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 10,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "PainkillerTablets",
+      "NumberOfStacks": 10,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "VitaminBottle",
+      "NumberOfStacks": 10,
+      "StackSize": 50
+    },
+    {
+      "ItemName": "PurificationTablets",
+      "NumberOfStacks": 5,
+      "StackSize": 10
+    },
+    {
+      "ItemName": "CharcoalTablets",
+      "NumberOfStacks": 5,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "WaterBottle",
+      "NumberOfStacks": 10,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "PeachesCan",
+      "NumberOfStacks": 10,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "BakedBeansCan",
+      "NumberOfStacks": 10,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TunaCan",
+      "NumberOfStacks": 10,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "IodineTincture",
+      "NumberOfStacks": 5,
+      "StackSize": 200
+    },
+    {
+      "ItemName": "DisinfectantAlcohol",
+      "NumberOfStacks": 5,
+      "StackSize": 200
+    }
+  ]
+}

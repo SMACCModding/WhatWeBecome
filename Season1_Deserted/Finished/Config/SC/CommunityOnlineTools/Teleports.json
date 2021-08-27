@@ -1,0 +1,54 @@
+{
+    "Locations": [
+        {
+            "Name": "North - Rasman",
+            "Permission": "Rasman",
+            "Position": [
+                6355.89,
+                0.0,
+                11496.1
+            ],
+            "Radius": 1.0
+        },
+        {
+            "Name": "Center - Feeruz",
+            "Permission": "Feeruz",
+            "Position": [
+                5491.66,
+                0.0,
+                6142.97
+            ],
+            "Radius": 1.0
+        },
+        {
+            "Name": "South - Airfield",
+            "Permission": "SouthAirfield",
+            "Position": [
+                8270.62,
+                0.0,
+                1456.62
+            ],
+            "Radius": 1.0
+        },
+        {
+            "Name": "Spawn West",
+            "Permission": "SpawnWest",
+            "Position": [
+                995,
+                0.0,
+                3699.61
+            ],
+            "Radius": 1.0
+        },
+        {
+            "Name": "Spawn East",
+            "Permission": "SpawnEast",
+            "Position": [
+                10020.9,
+                0.0,
+                110002.3
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

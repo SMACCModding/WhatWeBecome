@@ -1,0 +1,22 @@
+{
+  "VehicleName": "Kamaz_Civilian",
+  "DisplayName": "",
+  "Parts": [
+    "Kamaz_doors_Driver_Civilian",
+    "Kamaz_Doors_coDriver_Civilian",
+    "Kamaz_doors_trunk_Civilian",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "CarBattery",
+    "CarRadiator",
+    "SparkPlug",
+    "HeadlightH7",
+    "HeadlightH7",
+    "MCK_CarKey_White"
+  ]
+}

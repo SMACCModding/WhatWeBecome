@@ -1,0 +1,28 @@
+{
+  "VehicleName": "Kamaz_Tent_Civilian_6B",
+  "DisplayName": "",
+  "Parts": [
+    "Kamaz_doors_Driver_Civilian_6",
+    "Kamaz_Doors_coDriver_Civilian_6",
+    "Kamaz_doors_trunk_Civilian",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "Kamaz_Wheel",
+    "CarBattery",
+    "CarRadiator",
+    "SparkPlug",
+    "HeadlightH7",
+    "HeadlightH7",
+    "CanisterGasoline",
+    "WaterBottle",
+    "WaterBottle",
+    "WaterBottle",
+    "WaterBottle",
+    "MCK_CarKey_Red",
+    "MCK_CarKeyTag_Red"
+  ]
+}

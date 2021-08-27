@@ -1,0 +1,41 @@
+{
+  "Name": "Car Fix",
+  "ContainerClassName": "CourierBag_Admin",
+  "Items": [
+    {
+      "ItemName": "CarBattery",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "CarRadiator",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "SparkPlug",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TruckBattery",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "HeadlightH7",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "CanisterGasoline",
+      "NumberOfStacks": 2,
+      "StackSize": 5000
+    },
+    {
+      "ItemName": "WaterBottle",
+      "NumberOfStacks": 10,
+      "StackSize": 1000
+    }
+  ]
+}

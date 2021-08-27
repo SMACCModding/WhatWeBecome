@@ -1,0 +1,56 @@
+{
+    "Name": "Wall Repair",
+    "ContainerClassName": "CourierBag_Admin",
+    "Items": [
+        {
+            "ItemName": "Woodenlog",
+            "NumberOfStacks": 1,
+            "StackSize": 2
+        },
+        {
+            "ItemName": "WoodenPlank",
+            "NumberOfStacks": 3,
+            "StackSize": 10
+        },
+        {
+            "ItemName": "MetalPlate",
+            "NumberOfStacks": 1,
+            "StackSize": 10
+        },
+        {
+            "ItemName": "Hammer",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Shovel",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Pliers",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Nail",
+            "NumberOfStacks": 3,
+            "StackSize": 99
+        },
+        {
+            "ItemName": "MetalWire",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "FenceKit",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "CodeLock",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        }
+    ]
+}

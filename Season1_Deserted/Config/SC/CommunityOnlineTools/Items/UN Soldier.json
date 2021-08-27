@@ -1,0 +1,111 @@
+{
+  "Name": "UN Soldier",
+  "ContainerClassName": "CourierBag_Admin",
+  "Items": [
+    {
+      "ItemName": "BallisticHelmet_UN",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "M65Jacket_Tan",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TTSKOJacket_Camo",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "CargoPants_Beige",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TTSKOPants",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TTSKOBoots",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "AK74",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "AK74_WoodBttstck",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "AK74_Hndgrd",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "AKS74U",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "AKS74U_Bttstck",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Mag_AK74_30Rnd",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Ammo_545x39",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "PlateCarrierVest",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "PlateCarrierPouches",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "BandageDressing",
+      "NumberOfStacks": 2,
+      "StackSize": 4
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 1,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "PurificationTablets",
+      "NumberOfStacks": 1,
+      "StackSize": 10
+    },
+    {
+      "ItemName": "WaterBottle",
+      "NumberOfStacks": 2,
+      "StackSize": 1000
+    },
+    {
+      "ItemName": "BakedBeansCan",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TunaCan",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    }
+  ]
+}

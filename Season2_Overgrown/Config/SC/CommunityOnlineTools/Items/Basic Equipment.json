@@ -1,0 +1,56 @@
+{
+  "Name": "Basic Equipment",
+  "ContainerClassName": "Spur_Treker_Blue",
+  "Items": [
+    {
+      "ItemName": "TunaCan",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "SodaCan_Pipsi",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Chemlight_Green",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Headtorch_Grey",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "PersonalRadio",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Compass",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TakistanPlusMap",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "BandageDressing",
+      "NumberOfStacks": 2,
+      "StackSize": 4
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Pie_Battery9V_Green",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    }
+  ]
+}

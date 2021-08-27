@@ -1,0 +1,101 @@
+{
+  "Name": "Airdrop A",
+  "ContainerClassName": "CourierBag_Admin",
+  "Items": [
+    {
+      "ItemName": "BandageDressing",
+      "NumberOfStacks": 2,
+      "StackSize": 4
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 1,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "PurificationTablets",
+      "NumberOfStacks": 2,
+      "StackSize": 10
+    },
+    {
+      "ItemName": "PainkillerTablets",
+      "NumberOfStacks": 2,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "WaterBottle",
+      "NumberOfStacks": 2,
+      "StackSize": 1000
+    },
+    {
+      "ItemName": "CharcoalTablets",
+      "NumberOfStacks": 2,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "BakedBeansCan",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "IodineTincture",
+      "NumberOfStacks": 2,
+      "StackSize": 400
+    },
+    {
+      "ItemName": "BandageDressing",
+      "NumberOfStacks": 3,
+      "StackSize": 2
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 2,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "VitaminBottle",
+      "NumberOfStacks": 2,
+      "StackSize": 50
+    },
+    {
+      "ItemName": "WaterBottle",
+      "NumberOfStacks": 3,
+      "StackSize": 1000
+    },
+    {
+      "ItemName": "TetracyclineAntibiotics",
+      "NumberOfStacks": 1,
+      "StackSize": 12
+    },
+    {
+      "ItemName": "PeachesCan",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "PersonalRadio",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Compass",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "TakistanPlusMap",
+      "NumberOfStacks": 1,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Pie_Battery9V_Green",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    },
+    {
+      "ItemName": "Pie_Battery9V_Gray",
+      "NumberOfStacks": 2,
+      "StackSize": 1
+    }
+  ]
+}
